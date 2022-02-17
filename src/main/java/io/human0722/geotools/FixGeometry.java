@@ -55,6 +55,7 @@ public class FixGeometry {
                 if (geom !=null && !geom.isValid()) {
                     System.out.println("Fix Invalid Geometry:" + simpleFeatures.getID());
                     PC = GeometryFixer.fix(geom);
+//                    GeometryFixer.
                 }else {
                     PC = geom;
                 }
