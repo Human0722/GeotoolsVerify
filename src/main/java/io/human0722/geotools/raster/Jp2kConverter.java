@@ -16,7 +16,7 @@ import java.io.IOException;
 
 public class Jp2kConverter {
     public static void main(String[] args) throws IOException {
-        File file = new File("/Users/rebot0722/Documents/B01.jp2");
+        File file = new File("C:/Users/puhou/Documents/B09.jp2");
         JP2KReader reader = new JP2KReader(file);
 
         // Setting GridGeometry for reading half coverage
