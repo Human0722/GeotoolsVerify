@@ -5,17 +5,8 @@ import org.geotools.data.FileDataStoreFinder;
 import org.geotools.data.simple.SimpleFeatureCollection;
 import org.geotools.data.simple.SimpleFeatureSource;
 import org.geotools.referencing.CRS;
-import org.geotools.swing.action.SafeAction;
-import org.locationtech.jts.geom.Geometry;
-import org.opengis.feature.Feature;
-import org.opengis.feature.FeatureVisitor;
-import org.opengis.feature.simple.SimpleFeature;
 import org.opengis.referencing.FactoryException;
 import org.opengis.referencing.crs.CoordinateReferenceSystem;
-import sun.net.ProgressListener;
-
-import javax.swing.*;
-import java.awt.event.ActionEvent;
 import java.io.File;
 import java.io.IOException;
 
