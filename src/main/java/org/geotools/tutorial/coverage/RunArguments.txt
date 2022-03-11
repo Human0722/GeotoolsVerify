@@ -1,1 +1,4 @@
--Djava.library.path=/Users/rebot0722/Downloads/kakadu/extra/libs/windows-i586  -f /Users/rebot0722/Documents/merge.jp2 -htc 16 -vtc 8 -o /Users/rebot0722/Documents/output -scale 2.0
+> OSX
+-f /Users/rebot0722/Documents/merge.jp2 -htc 16 -vtc 8 -o /Users/rebot0722/Documents/output -scale 2.0
+> Windows
+-f /Users/rebot0722/Documents/merge.jp2 -htc 16 -vtc 8 -o /Users/rebot0722/Documents/output -scale 2.0
